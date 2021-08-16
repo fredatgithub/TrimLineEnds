@@ -1,9 +1,7 @@
-﻿using System;
-
-namespace TrimLineEnds
+﻿namespace TrimLineEnds
 {
-    static class PkgCmdIDList
-    {
-        public const uint TrimLineEnds = 0x0003;
-    }
+  static class PkgCmdIDList
+  {
+    public const uint TrimLineEnds = 0x0003;
+  }
 }
